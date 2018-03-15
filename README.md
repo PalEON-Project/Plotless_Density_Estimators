@@ -1,6 +1,6 @@
 # Plotless_Density_Estimators
-Tree patterns were simulated from known spatial point processes and sampled in R.
-
+  * Tree patterns were simulated from known spatial point processes and sampled in R.
+  * Code Authors: Charles Cogbill, Andrew Thurman
 
 This is code used for the simulations in Cobill et al. 2018. A retrospective on the accuracy and precision of plotless forest density estimators in ecological studies. Ecosphere. Accepted.  
 
